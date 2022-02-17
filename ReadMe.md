@@ -1,4 +1,4 @@
-#  IBM App Store app (SwiftUI)
+ # IBM App Store app (SwiftUI)
 
 1. MVVM design pattern used
 2. Generics used for network calls to make it extensible for future API calls
